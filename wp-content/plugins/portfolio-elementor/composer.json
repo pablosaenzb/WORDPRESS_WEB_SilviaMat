@@ -1,0 +1,6 @@
+{
+    "name": "pwrplugins/portfolio-elementor",
+    "require": {
+        "freemius/wordpress-sdk": "^2.6"
+    }
+}
